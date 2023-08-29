@@ -1,0 +1,35 @@
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+	<script>
+		var app=angular.module("BOOK",[]);
+		app.controller("author",function($scope,$http){
+			$http.get("https://localhost:44394/api/Author/all").then(function(rsp){
+				$scope.data=rsp.data;
+
+			},function(err){
+
+			});
+		})
+	</script>
+	<body ng-app="BOOK">
+		<div ng-controller="author">
+			<table border="1">
+				<th>name</th>
+				<th>id</th>
+				<th>bio</th>
+				<th>description</th>
+				<tr>
+					<td>{{data.AuthorName}}</td>
+					<td>{{data.Id}}</td>
+					<td>{{data.Biography}}</td>
+					<td>{{data.ListOfBooks}}</td>
+				</tr>
+
+			</table>
+		</div>
+
+	</body>
+
+</head>
+</html>

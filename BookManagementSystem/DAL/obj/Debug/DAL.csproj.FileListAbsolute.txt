@@ -1,0 +1,43 @@
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\bin\Debug\DAL.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\bin\Debug\DAL.pdb
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\obj\Debug\DAL.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\obj\Debug\DAL.pdb
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\obj\Debug\DAL.Migrations.init.resources
+C:\Users\Tawhid\source\repos\UsedBookStore\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\bin\Debug\DAL.dll.config
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\bin\Debug\DAL.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\bin\Debug\DAL.pdb
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\bin\Debug\EntityFramework.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\bin\Debug\EntityFramework.xml
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\obj\Debug\DAL.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\obj\Debug\DAL.pdb
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\obj\Debug\DAL.Migrations.init.resources
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\11th Semester\.net project\UsedBookStore-Anik\DAL\obj\Debug\DAL.Migrations.admin.resources
+D:\.net-project\UsedBookStore-Anik\DAL\bin\Debug\DAL.dll.config
+D:\.net-project\UsedBookStore-Anik\DAL\bin\Debug\DAL.dll
+D:\.net-project\UsedBookStore-Anik\DAL\bin\Debug\DAL.pdb
+D:\.net-project\UsedBookStore-Anik\DAL\bin\Debug\EntityFramework.dll
+D:\.net-project\UsedBookStore-Anik\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\.net-project\UsedBookStore-Anik\DAL\bin\Debug\EntityFramework.xml
+D:\.net-project\UsedBookStore-Anik\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\.net-project\UsedBookStore-Anik\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\.net-project\UsedBookStore-Anik\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\.net-project\UsedBookStore-Anik\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\.net-project\UsedBookStore-Anik\DAL\obj\Debug\DAL.dll
+D:\.net-project\UsedBookStore-Anik\DAL\obj\Debug\DAL.pdb
+D:\.net-project\UsedBookStore-Anik\DAL\obj\Debug\DAL.Migrations.init.resources
+D:\.net-project\UsedBookStore-Anik\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

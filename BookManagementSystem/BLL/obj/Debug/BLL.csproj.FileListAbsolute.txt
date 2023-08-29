@@ -1,0 +1,56 @@
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\BLL.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\BLL.pdb
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\DAL.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\DAL.pdb
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\DAL.dll.config
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\obj\Debug\BLL.dll
+C:\Users\Tawhid\source\repos\UsedBookStore\BLL\obj\Debug\BLL.pdb
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\BLL.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\BLL.pdb
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\AutoMapper.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\DAL.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\EntityFramework.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\DAL.pdb
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\DAL.dll.config
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\AutoMapper.xml
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\bin\Debug\EntityFramework.xml
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\obj\Debug\BLL.dll
+E:\11th Semester\.net project\UsedBookStore-Anik\BLL\obj\Debug\BLL.pdb
+D:\UsedBookStore-Anik\BLL\bin\Debug\BLL.dll
+D:\UsedBookStore-Anik\BLL\bin\Debug\BLL.pdb
+D:\UsedBookStore-Anik\BLL\bin\Debug\AutoMapper.dll
+D:\UsedBookStore-Anik\BLL\bin\Debug\DAL.dll
+D:\UsedBookStore-Anik\BLL\bin\Debug\EntityFramework.dll
+D:\UsedBookStore-Anik\BLL\bin\Debug\DAL.pdb
+D:\UsedBookStore-Anik\BLL\bin\Debug\DAL.dll.config
+D:\UsedBookStore-Anik\BLL\bin\Debug\AutoMapper.xml
+D:\UsedBookStore-Anik\BLL\bin\Debug\EntityFramework.xml
+D:\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\UsedBookStore-Anik\BLL\obj\Debug\BLL.dll
+D:\UsedBookStore-Anik\BLL\obj\Debug\BLL.pdb
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\BLL.dll
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\BLL.pdb
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\AutoMapper.dll
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\DAL.dll
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\EntityFramework.dll
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\DAL.pdb
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\DAL.dll.config
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\AutoMapper.xml
+D:\.net-project\UsedBookStore-Anik\BLL\bin\Debug\EntityFramework.xml
+D:\.net-project\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\.net-project\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\.net-project\UsedBookStore-Anik\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\.net-project\UsedBookStore-Anik\BLL\obj\Debug\BLL.dll
+D:\.net-project\UsedBookStore-Anik\BLL\obj\Debug\BLL.pdb
